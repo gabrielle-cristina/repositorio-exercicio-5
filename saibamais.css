@@ -5,7 +5,7 @@ div.posters {
 
 body{
  background-color: black;
- background-image: url(/mafia-saibamais.png);
+ background-image: url(./mafia-saibamais.png);
  display: flex;
  background-size: 100%;  
  background-repeat: no-repeat;

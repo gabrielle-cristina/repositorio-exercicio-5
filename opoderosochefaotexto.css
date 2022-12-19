@@ -1,6 +1,6 @@
 body{
     background-color: rgb(0, 0, 0);
-    background-image: url(/mafia-sinopse1.png);
+    background-image: url(./mafia-sinopse1.png);
     display: flex;
     background-size: 100%;  
     background-repeat: no-repeat;
