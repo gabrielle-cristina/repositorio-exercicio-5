@@ -2,15 +2,14 @@
 body{
     background-image: url(/mafia-segundo.png);
 }
-
-img{ 
-    width: 50%;
+img{ width: 50%;
     display:flex;
     margin: 0 auto;     
 }
-  
-.setas{
+footer{
     color: white;
+    position:fixed;
+    bottom: 1vh;         
 }
 
 p{
@@ -25,6 +24,7 @@ a{
     color: rgb(255, 255, 255);
     text-align: center;
     font-size: larger;
+    background-color: darkred;
     border-radius: 100px;
     padding:  20px 30px;
 }

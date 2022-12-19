@@ -1,0 +1,36 @@
+
+body{
+ background-image: url(/mafia-segundo.png);
+
+}
+
+img { 
+  width: 50%;
+  display:flex;
+  margin: 0 auto;   
+
+}
+
+ footer{  
+  color: white;      
+  position:fixed;
+  bottom: 1vh;         
+    
+}
+
+p{
+  color: white;
+  font-size: 200%;
+  text-align: center;
+  font-weight: bold;
+}
+
+a{
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  font-size: larger;
+  background-color: darkred;
+  border-radius: 100px;
+  padding:  20px 30px;
+}
